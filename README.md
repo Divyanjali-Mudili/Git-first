@@ -1,3 +1,4 @@
 # Git-first
-This is my new repository
-Author - Divyanjali
+This is my new repository.
+<br>
+Author - Divyanjali mudili
